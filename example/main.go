@@ -1,7 +1,7 @@
 package main
 
 import (
-	"../../identicon"
+	"github.com/1l0/identicon"
 )
 
 func main() {
