@@ -1,5 +1,9 @@
 #Identicon
 
+Identicon is github's [Identicons](https://github.com/blog/1586-identicons) clone in Go
+
+##Simple example
+
 Type: Horizontal, Theme: White (Default)
 ```go
 package main
