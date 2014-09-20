@@ -53,7 +53,7 @@ Type: Normal, Theme: White
 ```
 ![](https://raw.githubusercontent.com/1l0/identicon/master/example/identicons/normal_white.png)
 
-// Random batch
+Random batch
 ```go
 	id = identicon.New()
 	id.GenerateRandomThemes("identicons/rand", 4)
