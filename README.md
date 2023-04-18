@@ -1,6 +1,6 @@
-# Identicon
+# identicon
 
-Identicon is github's [Identicons](https://github.com/blog/1586-identicons) clone in Go
+identicon is a github's [Identicons](https://github.com/blog/1586-identicons) clone in Go
 
 ## Simple example
 
